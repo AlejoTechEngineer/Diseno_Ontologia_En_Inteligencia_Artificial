@@ -16,23 +16,6 @@ Este proyecto desarrolla una ontología en OWL para la representación del conoc
 - Inferencias automáticas mediante motores de razonamiento.  
 - Validación de la ontología con SPARQL y reglas SWRL.  
 
-## 🚀 Tecnologías utilizadas  
-- OWL (Web Ontology Language)  
-- Protégé  
-- SPARQL  
-- SWRL  
-
-## ▶️ Cómo ejecutar el proyecto  
-1. Abrir la ontología en Protégé.  
-2. Ejecutar inferencias y validar la coherencia.  
-3. Consultar la ontología con SPARQL.  
-4. Exportar y utilizar la ontología en aplicaciones de IA.  
-
-## 📌 Autor  
-👨‍💻 **Alejandro De Mendoza**
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -49,6 +32,23 @@ flowchart TD
     I --> J[Exportar ontologia OWL]
     J --> K[Integrar en aplicaciones de IA]
 ```
+
+## 🚀 Tecnologías utilizadas  
+- OWL (Web Ontology Language)  
+- Protégé  
+- SPARQL  
+- SWRL  
+
+## ▶️ Cómo ejecutar el proyecto  
+1. Abrir la ontología en Protégé.  
+2. Ejecutar inferencias y validar la coherencia.  
+3. Consultar la ontología con SPARQL.  
+4. Exportar y utilizar la ontología en aplicaciones de IA.  
+
+## 📌 Autor  
+👨‍💻 **Alejandro De Mendoza**
+
+---
 
 ## Autor
 
