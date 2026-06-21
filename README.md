@@ -1,6 +1,13 @@
+<div align="center">
+
 # 📌 Diseño de Ontología en Inteligencia Artificial  
 
-## 📖 Descripción  
+## 📖 Descripción
+
+</div>
+
+---
+
 Este proyecto desarrolla una ontología en OWL para la representación del conocimiento en un dominio específico dentro de la Inteligencia Artificial.
 
 ## 🛠️ Funcionalidades  
@@ -23,3 +30,12 @@ Este proyecto desarrolla una ontología en OWL para la representación del conoc
 
 ## 📌 Autor  
 👨‍💻 **Alejandro De Mendoza**
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
