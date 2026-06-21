@@ -33,6 +33,23 @@ Este proyecto desarrolla una ontología en OWL para la representación del conoc
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Definicion del dominio de conocimiento] --> B[Modelado de conceptos y relaciones semanticas]
+    B --> C[Implementacion en OWL con Protege]
+    C --> D[Definir clases y propiedades]
+    D --> E[Agregar instancias - Individuals]
+    E --> F[Definir reglas SWRL]
+    F --> G[Ejecutar motor de razonamiento HermiT]
+    G --> H{Ontologia consistente?}
+    H -- No --> D
+    H -- Si --> I[Consultas SPARQL - validacion]
+    I --> J[Exportar ontologia OWL]
+    J --> K[Integrar en aplicaciones de IA]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
